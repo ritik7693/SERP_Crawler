@@ -19,7 +19,7 @@ def google_search_crawler():
     params = {
         'q': query,
         'num': 100,  # Number of results per page (maximum allowed by SerpApi)
-        'api_key': 'eee2eb2b96e849cdd1010627b25569cd59b971bbd6a72ee966b05c7f98a66741'
+        'api_key': 'USE YOUR API ID FROM SERP API'
     }
     
     pages = 0
